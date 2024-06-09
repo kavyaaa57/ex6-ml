@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-
+st.markdown("<h1 style='text-align: center;'>Code X</h1>", unsafe_allow_html=True)
 st.title("BAYESIAN NETWORK TO DIAGNOSE CORONA INFECTION")
 
 # Define your BayesianNetwork class here
